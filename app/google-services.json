@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812863608125",
+    "firebase_url": "https://mlkit-online-face-recog.firebaseio.com",
+    "project_id": "mlkit-online-face-recog",
+    "storage_bucket": "mlkit-online-face-recog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812863608125:android:84a6aba655561462392154",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812863608125-b1ma3qgelo2s94ee7gb9amvuu081ikvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWIzgp8bXoYY5NppV1Soef_9FLYnoTJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812863608125-b1ma3qgelo2s94ee7gb9amvuu081ikvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
